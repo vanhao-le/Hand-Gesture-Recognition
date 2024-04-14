@@ -3,23 +3,16 @@ An application based on Landmark Detection used for giving presentations with th
 
 ### Introduction :
 This project is a use case of Landmark Detection specifically Hand Tracking. <br>
-As soon as the user shows up his hand in the camera the application detects it. Wenever user makes gestures they are detected and actions associated to those gestures are performed
-Currently there are 6 Functionalities present in this application.
+As soon as the user shows up his hand in the camera the application detects it. Whenever user makes gestures they are detected and actions associated to those gestures are performed
+Currently there are 2 Functionalities present in this application.
 
 - <b> Next Slide </b>
   
 - <b> Previous Slide </b>
 
-- <b> Pointer </b>
-
-- <b> Draw </b>
-
-- <b> Erase </b>
-
-- <b> Clear Screen </b>
-
 ### Demo :
-<!-- <img src="Demo.gif" alt="this slowpoke moves"  width="780" height = "480"> -->
+
+https://youtu.be/MxfUnEN58NM 
 
 ### Main Libs Used :
 - OpenCV lib (for image processing and drawing)
